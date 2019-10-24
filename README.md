@@ -2,7 +2,7 @@
 
 Flash more than one BBC Micro:Bit at once
 
-## OSX (Hardcoded. Only wWorking for 10 Micro:Bits)
+## OSX (Hardcoded. Working for 10 Micro:Bits)
 1. Mount 1 to 10 BBC Micro:Bits via USB
 2. Open Terminal (CMD+Space -> "Terminal")
 3. Type these commands to navigate to your MicroBitFlasher directory, and make the script executable
